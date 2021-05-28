@@ -22,6 +22,16 @@ main {
   width: 300px;
   padding: 10px;
   margin-right: 30px;
+  position: relative;
+}
+
+.step-icon {
+  padding: 3px;
+  background-color: #ff9a4b;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 main .box:last-child {
